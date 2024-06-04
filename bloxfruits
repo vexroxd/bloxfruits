@@ -1,5 +1,1 @@
--- script 1 :-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/NewHubX.txt"))()
-
--- script 2 :-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Speed-Hub-X/main/SpeedHubX"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/UpdateNewV2/main/HiruHub.lua"))()
