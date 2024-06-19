@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/UpdateNewV2/main/HiruHub.lua"))()
+_G.LoadUiFast = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CheemsNhuChiAl/MinGamingHub/main/mingamingupdatenew"))()
